@@ -3,4 +3,8 @@ hello1
 hello2
 
 branch
+<<<<<<< HEAD
 制造冲突
+=======
+冲突branch
+>>>>>>> hot-fix
